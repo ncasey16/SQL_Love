@@ -1,0 +1,3 @@
+— Basic SELECT Syntax; 
+SELECT * FROM my_table;
+
