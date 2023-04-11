@@ -1,3 +1,6 @@
 — Basic SELECT Syntax; 
 SELECT * FROM my_table;
 
+— Querying a subset of columns; 
+SELECT some_column, another_column, third_column, FROM table_name; 
+
